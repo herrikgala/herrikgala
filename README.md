@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @herrikgala
-- 👀 I’m interested in frontend dev
-- 🌱 I’m currently learning NextJS and Typescript
+- 👀 I’m interested in frontend development 
+- 🌱 I’m currently learning various architectures of software
 - 📫 You can reach me on telegram @herrikgala
 
 <!---
