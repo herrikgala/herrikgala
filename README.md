@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nury
-- 👀 I’m experienced Software development
+- 👀 I’m experienced Software developer
 - 🌱 I’m currently learning AI ecosystem, such as MCP, RAG, AI integrated apps etc.
 - 📫 You can reach me on telegram @herrikgala
 
