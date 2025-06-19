@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @herrikgala
-- 👀 I’m interested in frontend development 
-- 🌱 I’m currently learning various architectures of software
+- 👋 Hi, I’m Nury
+- 👀 I’m experienced Software development
+- 🌱 I’m currently learning AI ecosystem, such as MCP, RAG, AI integrated apps etc.
 - 📫 You can reach me on telegram @herrikgala
 
 <!---
